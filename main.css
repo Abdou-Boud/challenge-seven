@@ -42,7 +42,7 @@ a {
 body {
     width: 100vw;
     height: 100vh;
-    background-image: url(challenge-seven/images/bg-desktop.svg);
+    background-image: url(/challenge-seven/images/bg-desktop.svg);
     background-size: 100%;
     background-color: var(--Violet);
     background-repeat: no-repeat;
@@ -124,7 +124,7 @@ footer a:hover i {
 }
 @media (max-width: 767px ) {
     body  {
-    background-image: url(challenge-seven/images/bg-mobile.svg);
+    background-image: url(/challenge-seven/images/bg-mobile.svg);
    }
    header img {
     width: 150px;
