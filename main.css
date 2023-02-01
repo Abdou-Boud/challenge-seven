@@ -74,6 +74,7 @@ main .details p  {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.4;
     color: rgba(255, 255, 255, 0.808);
+    margin: 20px 0;
 }
 main .details a {
     background-color: #fff;
